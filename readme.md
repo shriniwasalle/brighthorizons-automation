@@ -73,3 +73,10 @@ Open the Allure report:
 npm run test-open-report
 ```
 
+**Test1**
+![Search Functionality](https://github.com/user-attachments/assets/ada5cbf2-585a-499d-9278-cd059e6fa19e)
+
+
+**Test2**
+![VerifyComments](https://github.com/user-attachments/assets/50d21118-047c-44b7-a8a7-73650c6bbd05)
+
