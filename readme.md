@@ -48,10 +48,6 @@ git clone https://github.com/shriniwasalle/brighthorizons-automation.git
 ```
 
 ```plaintext
-cd playwright-test
-```
-
-```plaintext
 npm install
 ```
 
